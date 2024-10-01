@@ -50,7 +50,6 @@ rearranging_both <-  function(large_matrix, offset){
 }
 
 
-#### the function below may need some more work
 #the file extension in ouput changes the type of file. Need to supported by the av package. 
 
 green_detection <- function(file_dir,
